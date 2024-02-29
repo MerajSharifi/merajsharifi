@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm MerajSharifi</h1>
 <p align="left">An enthusiastic Junior Full Stack Web Developer with a knowledge of UX/UI designer and a strong background in Graphic Design</p>
+<h1></h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
