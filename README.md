@@ -11,13 +11,18 @@
 [![Javascript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Materialui](https://skillicons.dev/icons?i=materialui)](https://mui.com)
 [![Mysql](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 [![Mongodb](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
+
+<h4>Design Tools:</h4>
+
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
+[![Figma](https://skillicons.dev/icons?i=xd)](https://xd.com)
+
 
 
 
