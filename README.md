@@ -4,11 +4,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-### Connect with me
-[[<img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github" />](https://github.com/nicoquiroga90)]
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" title="Linkedin" />](https://www.linkedin.com/in/nicolas-quiroga90/)
-[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Gmail" />](mailto:nico1290@gmail.com)
-### Languages and tools I use
 [<img src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" />](https://en.wikipedia.org/wiki/HTML5)
 [<img src="https://skillicons.dev/icons?i=css" alt="Css" title="Css" />](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://skillicons.dev/icons?i=ts" alt="Typescript" title="Typescript" />](https://www.typescriptlang.org/)
@@ -22,8 +17,6 @@
 [<img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" title="Mysql" />](https://mysql.com)
 [<img src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb" title="Mongodb" />](https://mongodb.com)
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />](https://postman.com)
-
-
 
 
 
