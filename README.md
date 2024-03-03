@@ -4,21 +4,22 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html, css, javascript" />(https://en.wikipedia.org/wiki/HTML5)
-
 [<img src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" />](https://en.wikipedia.org/wiki/HTML5)
 [<img src="https://skillicons.dev/icons?i=css" alt="Css" title="Css" />](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://skillicons.dev/icons?i=ts" alt="Typescript" title="Typescript" />](https://www.typescriptlang.org/)
 [<img src="https://skillicons.dev/icons?i=js" alt="Javascript" title="Javascript" />](https://www.javascript.com/)
 [<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />](https://react.dev/)
 [<img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs" />](https://nodejs.org/en)
-[<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" />](https://www.gnu.org/software/bash/)
 [<img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />](https://expressjs.com/)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=materialui" alt="Materialui" title="Materialui" />](https://mui.com)
 [<img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" title="Mysql" />](https://mysql.com)
 [<img src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb" title="Mongodb" />](https://mongodb.com)
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />](https://postman.com)
+[<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />](https://docker.com)
+<h4>Design Tools:</h4>
+[<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />](https://docker.com)
+
 
 
 <h1></h1>
