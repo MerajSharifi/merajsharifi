@@ -4,6 +4,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![Html](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML5)
 [![Css](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
 [![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
@@ -17,6 +18,7 @@
 [![Mysql](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 [![Mongodb](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
+
 
 
 
