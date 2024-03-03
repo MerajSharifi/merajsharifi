@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-[<img src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" />](https://en.wikipedia.org/wiki/HTML5)
+<img src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" />(https://en.wikipedia.org/wiki/HTML5)
 
 
 
