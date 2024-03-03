@@ -5,6 +5,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" />(https://en.wikipedia.org/wiki/HTML5)
+[srv="(https://skillicons.dev/icons?i=js,html,css,wasm)"](https://skillicons.dev)
+
 
 
 
