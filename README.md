@@ -18,7 +18,6 @@
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />](https://postman.com)
 [<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />](https://docker.com)
 <h4>Design Tools:</h4>
-[<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />](https://docker.com)
 
 
 
