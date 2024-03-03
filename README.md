@@ -4,8 +4,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-[<img src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" />](https://en.wikipedia.org/wiki/HTML5),
-[<img src="https://skillicons.dev/icons?i=css" alt="Css" title="Css" />](https://en.wikipedia.org/wiki/CSS)
+[<img src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" />](https://en.wikipedia.org/wiki/HTML5) [<img src="https://skillicons.dev/icons?i=css" alt="Css" title="Css" />](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://skillicons.dev/icons?i=ts" alt="Typescript" title="Typescript" />](https://www.typescriptlang.org/)
 [<img src="https://skillicons.dev/icons?i=js" alt="Javascript" title="Javascript" />](https://www.javascript.com/)
 [<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />](https://react.dev/)
