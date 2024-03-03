@@ -19,11 +19,6 @@
 [![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![p5js](https://skillicons.dev/icons?i=p5js)](https://p5js.com)
-
-
-
-<h4>Design Tools:</h4>
-
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
 [![Figma](https://skillicons.dev/icons?i=xd)](https://xd.com)
 
