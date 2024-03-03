@@ -21,6 +21,8 @@
 [![p5js](https://skillicons.dev/icons?i=p5js)](https://p5js.com)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
 [![Figma](https://skillicons.dev/icons?i=xd)](https://xd.com)
+[![PS](https://skillicons.dev/icons?i=ps)](https://ps.com)
+
 
 
 
