@@ -17,6 +17,10 @@
 [![Mysql](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 [![Mongodb](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![p5js](https://skillicons.dev/icons?i=p5js)](https://p5js.com)
+
+
 
 <h4>Design Tools:</h4>
 
