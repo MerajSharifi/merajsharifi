@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Meraj :)</h1>
-<p align="left">An enthusiastic Junior Full Stack Web Developer with a knowledge of UX/UI Design and a strong background in Graphic Design</p>
+<p align="left">An enthusiastic Junior Front-end Developer with a knowledge of UX/UI Design and a strong background in Graphic Design</p>
 <h1></h1>
 
 
